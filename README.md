@@ -26,11 +26,11 @@ I learn by building projects, experimenting with different approaches, and under
 
 **Digit Recognition**
 - A handwritten-digit classification project using scikit-learn.
-- [View repository]
+- in progress
 
 **Cooperative Saathi**
 - An AI assistant project focused on cooperative governance and access to information.
-- [View repository]
+- in progress
 
 ### 📫 Connect
 
