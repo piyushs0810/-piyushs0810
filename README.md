@@ -24,8 +24,8 @@ I learn by building projects, experimenting with different approaches, and under
 - Built with Python and scikit-learn.
 - [View repository](https://house-price-prediction-ixrynqyx5fdf6eu9hvrryx.streamlit.app/)
 
-**Digit Recognition**
-- A handwritten-digit classification project using scikit-learn.
+**AI-Powered Conveyor Belt Rupture & Damage Early Warning System**
+- Sensor-based time-series anomaly detection and computer vision for belt damage. 
 - in progress
 
 **Cooperative Saathi**
